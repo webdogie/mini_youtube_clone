@@ -1,1 +1,1 @@
-# mini_youtube_clone
+# Mini Youtube Clone
